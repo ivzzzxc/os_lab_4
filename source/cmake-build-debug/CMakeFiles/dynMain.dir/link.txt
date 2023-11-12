@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/dynMain.dir/src/dynMain.c.o -o dynMain  -ldl 
